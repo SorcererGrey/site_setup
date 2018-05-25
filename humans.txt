@@ -1,0 +1,17 @@
+/* TEAM */
+Lead Software Engineer: SorcererGrey
+Site: https://github.com/SorcererGrey
+Twitter: @SorcererGrey
+Location: Northern Ireland, United Kingdom
+
+[...]
+
+/* THANKS */
+
+[...]
+
+/* SITE */
+Last Update: 2018/05/25
+Standards: HTML5, CSS3, JS
+Components:
+Software: ATOM, GitHub Desktop, Visual Studio Code
